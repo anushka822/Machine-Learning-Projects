@@ -16,9 +16,9 @@ Two clustering algorithms were implemented:
 ```
 Machine-Learning-Projects/
 │
-├─ K_Means_and_GMM_.ipynb        # Notebook containing models, with graphs for results 
-├─ hw4_dataset.csv         # Input dataset
-├─ K_Means_and_Gaussian_Mixture_Model__GMM_.pdf         # Report contains details on models and results 
+├─ K_Means_and_GMM_.ipynb                                # Notebook containing models, with graphs for results 
+├─ hw4_dataset.csv                                       # Input dataset
+├─ K_Means_and_Gaussian_Mixture_Model__GMM_.pdf          # Report contains details on models and results 
 └─ README.md
 ```
 
