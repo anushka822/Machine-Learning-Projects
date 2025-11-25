@@ -6,10 +6,7 @@ This repository contains a collection of mini-projects that implement machine le
 
 ### **Pandas-Seaborn-Basics**
 
-Covers introductory data exploration and visualization using:
-
-* Pandas for data manipulation
-* Seaborn for statistical visualizations
+Covers basic pandas, seaborn, and math. Assignment created by teacher. 
 ---
 
 ### **KNN-GMM-Clustering**
