@@ -1,4 +1,4 @@
-# CSE 142 Assignment: Naive Bayes and Data Analysis
+# CSE 142 Assignment: Basics of ML
 
 This project contains a CSE 142 assignment designed to introduce the basics of **pandas**, **Seaborn**, and the mathematical foundations of **Naive Bayes**. The assignment focuses on exploring datasets, performing simple data analysis, and understanding probabilistic classification.
 
