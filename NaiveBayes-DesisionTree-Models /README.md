@@ -30,7 +30,7 @@ Machine-Learning-Projects/
 ```
 
 ## Usage
-1. Open the notebook **CSE142_hw3.ipynb** in **Google Colab**.  
+1. Open the notebook **NB_Tree.ipynb** in **Google Colab**.  
 2. Results and plots are already included in the notebook.  
 3. To reproduce the results, ensure all dataset files are in the same folder as the notebook.  
 4. Click **"Run All"** at the top of the notebook to rerun experiments.
