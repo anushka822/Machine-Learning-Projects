@@ -31,3 +31,4 @@ Machine-Learning-Projects/
 
 ## Author
 **Anushka Hada**
+**anhada@ucsc.edu**
