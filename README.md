@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository contains a collection of mini-projects that implement machine learning algorithms from scratch. Each project includes both **source code** and a **written report** explaining the methodology, experiments, results, and conclusions.
+This repository contains a collection of mini-projects that implement machine learning algorithms from scratch. Each project includes both **source code** and a **written report** explaining the methodology, experiments, results, and conclusions. Projects were assigned for CSE 142. 
 
 ## 📁 Projects Included
 
