@@ -6,7 +6,8 @@ This repository contains a collection of mini-projects that implement machine le
 
 ### **Pandas-Seaborn-Basics**
 
-Covers basic pandas, seaborn, and math. Assignment created by teacher. 
+* Covers basic pandas, seaborn, and math. Assignment created by teacher. 
+
 ---
 
 ### **KNN-GMM-Clustering**
