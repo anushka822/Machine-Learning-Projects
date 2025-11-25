@@ -1,30 +1,39 @@
-README
-Overview
+# Machine Learning Classification Project
 
-This project contains experiments using Naive Bayes and Decision trees on the Mushroom and Congressional Voting Records datasets. Various hyperparameters and formula combinations were tested using accuracy scores and confusion matrices.
+This project implements supervised learning algorithms on the **Mushroom** and **Congressional Voting Records** datasets. Both custom implementations and standard models are used to evaluate performance across different hyperparameters.
 
-Running the Code
+## Project Overview
+The datasets used in this project are:
 
-All code has been run in Google Colab, so the outputs are already visible. You do not need to rerun the notebook to see the results.
+- **Mushroom dataset:** Contains features of different mushroom species, labeled as edible or poisonous.  
+- **Congressional Voting Records dataset:** Contains voting records of U.S. House of Representatives members for different issues, labeled by party.
 
-If you want to rerun the experiments for verification:
+The main goal of this project is to classify the data points correctly using two different algorithms:
 
-Upload all files inside the folder onto to Google Colab. 
+- **Naive Bayes**  
+- **Decision Trees**
 
-Simply click "run all" at the very top.
+Performance is evaluated using **accuracy scores** and **confusion matrices**.
 
-The results for each model and dataset will be printed out automatically.
+## Project Structure
+```
+Machine-Learning-Projects/
+│
+├─ NB_Tree.ipynb                      # Notebook containing models, experiments, and printed outputs
+├─ agaricus-lepiota.data              # Mushroom dataset
+├─ agaricus-lepiota.names             # Mushroom feature names
+├─ house-votes-84.data                # Congressional Voting Records dataset
+├─ house-votes-84.names               # Voting Records feature names
+├─ expanded                           # Contains expanded names for Mushroom dataset features.
+├─ Naive_Bayes_and_Decision_trees.pdf # Report summarizing experiments, results, and analysis
+└─ README.md
+```
 
-Files---------------------------------------------------------------
-hw3.pdf - Shows the assignment specifications. 
+## Usage
+1. Open the notebook **CSE142_hw3.ipynb** in **Google Colab**.  
+2. Results and plots are already included in the notebook.  
+3. To reproduce the results, ensure all dataset files are in the same folder as the notebook.  
+4. Click **"Run All"** at the top of the notebook to rerun experiments.
 
-CSE142_hw3.ipynb – Colab notebook containing all code, experiments, and printed outputs.
-
-Files needed for the Mushroom and House datasets:
-agaricus-lepiota.data
-agaricus-lepiota.names
-house-votes-84.data
-house-votes-84.names
-expanded
-
-CSE142_HW3.pdf – PDF report summarizing experiments, results, and analysis.
+## Author
+**Anushka Hada** – anhada@ucsc.edu
