@@ -1,30 +1,41 @@
-README
-Overview
+# Machine Learning Classification Project
 
-This project contains experiments using Perceptron, Logistic Regression, and SVM models on the Spambase and Language datasets. Various hyperparameters and feature combinations were tested using accuracy scores and confusion matrices.
+This project implements supervised learning algorithms on the **Spambase** and **Language** datasets. Both custom implementations and standard models are used to evaluate performance across different hyperparameters and feature combinations.
 
-Running the Code
+## Project Overview
+The datasets used in this project are:
 
-All code has been run in Google Colab, so the outputs are already visible. You do not need to rerun the notebook to see the results.
+- **Spambase dataset:** Contains features extracted from emails, labeled as spam or not spam.  
+- **Language dataset:** Contains text samples from different languages for classification.
 
-If you want to rerun the experiments for verification:
+The main goal of this project is to classify the data points correctly using three different algorithms:
 
-Upload all files inside the folder onto to Google Colab. 
+- **Perceptron**  
+- **Logistic Regression**  
+- **Support Vector Machine (SVM)**
 
-Simply click "run all" at the very top.
+Performance is evaluated using **accuracy scores** and **confusion matrices**.
 
-The results for each model and dataset will be printed automatically.
+## Project Structure
+```
+Machine-Learning-Projects/
+│
+├─ HW2_CSE140.ipynb                # Notebook containing models, experiments, and printed outputs
+├─ spambase.data                    # Spambase dataset
+├─ spambase.names                   # Spambase feature names
+├─ english.txt                       # English dataset
+├─ dutch.txt                         # Dutch dataset
+├─ English_test_valid.txt            # English test/validation set
+├─ Dutch_test_valid.txt              # Dutch test/validation set
+├─ CSE142_HW2.pdf                    # Report summarizing experiments, results, and analysis
+└─ README.md
+```
 
-Files---------------------------------------------------------------
+## Usage
+1. Open the notebook **HW2_CSE140.ipynb** in **Google Colab**.  
+2. Results and plots are already included in the notebook.  
+3. To reproduce the results, ensure all dataset files are in the same folder as the notebook.  
+4. Click **"Run All"** at the top of the notebook to rerun experiments.
 
-HW2_CSE140.ipynb – Colab notebook containing all code, experiments, and printed outputs.
-
-Files needed for the Spambase and Language datasets:
-English_test_valid.txt
-Dutch_test_valid.txt
-dutch.txt
-english.txt
-spambase.data
-spambase.names
-
-CSE142_HW2.pdf – PDF report summarizing experiments, results, and analysis.
+## Author
+**Anushka Hada** – anhada@ucsc.edu
