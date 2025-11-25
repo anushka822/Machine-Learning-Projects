@@ -4,7 +4,7 @@ This project implements **unsupervised clustering algorithms** on a dataset cont
 
 ## Project Overview
 
-The dataset (`hw4 dataset`) contains two features: **length** and **width** of several species. The species themselves are unknown, making this an **unsupervised learning task**. The main goal of this project is to classify the data points into clusters that can represent different species.
+The dataset (`hw4 dataset`) contains **length** and **width** of several species. The species are unlabeled, making this an **unsupervised learning task**. The main goal of this project is to classify the data points into clusters that can represent different species.
 
 Two clustering algorithms were implemented:
 
