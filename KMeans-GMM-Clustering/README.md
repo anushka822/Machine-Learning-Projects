@@ -26,7 +26,7 @@ Machine-Learning-Projects/
 ## Usage
 
 1. Open the notebook K_Means_and_GMM_.ipynb in Google Colab.
-2. All results, plots, and intermediate outputs are already included in the notebook.
+2. Results and plots are already included in the notebook.
 3. To reproduce the results, ensure the dataset hw4_dataset.csv is in the same folder as the notebook.
 
 ## Author
