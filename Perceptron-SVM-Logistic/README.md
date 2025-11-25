@@ -20,19 +20,19 @@ Performance is evaluated using **accuracy scores** and **confusion matrices**.
 ```
 Machine-Learning-Projects/
 │
-├─ HW2_CSE140.ipynb                # Notebook containing models, experiments, and printed outputs
-├─ spambase.data                    # Spambase dataset
-├─ spambase.names                   # Spambase feature names
+├─ Perceptron_SMV_log.ipynb          # Notebook containing models, experiments, and printed outputs
+├─ spambase.data                     # Spambase dataset
+├─ spambase.names                    # Spambase feature names
 ├─ english.txt                       # English dataset
 ├─ dutch.txt                         # Dutch dataset
 ├─ English_test_valid.txt            # English test/validation set
 ├─ Dutch_test_valid.txt              # Dutch test/validation set
-├─ CSE142_HW2.pdf                    # Report summarizing experiments, results, and analysis
+├─ Linear_Classification_Models.pdf  # Report summarizing experiments, results, and analysis
 └─ README.md
 ```
 
 ## Usage
-1. Open the notebook **HW2_CSE140.ipynb** in **Google Colab**.  
+1. Open the notebook **Perceptron_SMV_log.ipynb** in **Google Colab**.  
 2. Results and plots are already included in the notebook.  
 3. To reproduce the results, ensure all dataset files are in the same folder as the notebook.  
 4. Click **"Run All"** at the top of the notebook to rerun experiments.
