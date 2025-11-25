@@ -1,52 +1,31 @@
-# Machine Learning Projects
+# CSE 142 Assignment: Naive Bayes and Data Analysis
 
-This repository contains a collection of mini-projects that implement machine learning algorithms from scratch. Each project includes both **source code** and a **written report** explaining the methodology, experiments, results, and conclusions.
+This project contains a CSE 142 assignment designed to introduce the basics of **pandas**, **Seaborn**, and the mathematical foundations of **Naive Bayes**. The assignment focuses on exploring datasets, performing simple data analysis, and understanding probabilistic classification.
 
-## 📁 Projects Included
+## Project Overview
+The assignment includes tasks such as:
 
-### **Pandas-Seaborn-Basics**
+- Loading and exploring datasets using **pandas**  
+- Visualizing data distributions with **Seaborn**  
+- Implementing **Naive Bayes** classifiers and understanding their math  
+- Evaluating model performance using accuracy metrics
 
-Covers introductory data exploration and visualization using:
+## Project Structure
+```
+Pandas-Seaborn-Basics/
+│
+├─ BasicsOfML.ipynb        # Notebook containing all code
+├─ covid_19.csv            # Contains Covid information.
+├─ Q2-Part2                # Screenshot of Problem
+├─ Q2-Part1                # Screenshot of Problem
+├─ Q1-Assignment1-CSE142   # Screenshot of Problem
+└─ README.md               
+```
 
-* Pandas for data manipulation
-* Seaborn for statistical visualizations
----
+## Usage
+1. Open the notebook **BasicsOfML.ipynb** in **Google Colab** or **Jupyter Notebook**.  
+2. All code cells can be run sequentially to reproduce analyses and visualizations.  
+3. Ensure all files are in the same folder as the notebook before running.
 
-### **KNN-GMM-Clustering**
-
-Implements two unsupervised learning algorithms:
-
-* **K-Nearest Neighbors (KNN)** classification
-* **Gaussian Mixture Models (GMM)** using Expectation-Maximization
-  Includes clustering visualizations and evaluation.
-
----
-
-### **NaiveBayes-DesisionTree-Models**
-
-Implements two supervised learning algorithms:
-
-* **Naïve Bayes Classifier** 
-* **Decision Tree Classifier**
-  Includes entropy/Gini calculations, prediction logic, and experiment results.
-
----
-
-### **Perceptron-SVM-Logistic**
-
-Implements three linear ML algorithms from scratch:
-
-* **Perceptron**
-* **Support Vector Machine (SVM)**
-* **Logistic Regression**
-  Projects explore linear separability, gradient-based optimization, and hyperparameter impacts.
-
----
-
-## 📄 Repository Notes
-
-* Each project folder contains its own **code**, **documentation**, and **report**.
-* All projects were developed and tested using Google Colab, so outputs, visualizations, and intermediate results are already visible in the notebooks.## 👤 Author
-
-**Anushka Hada**
-Machine learning mini-projects for academic and personal learning.
+## Author
+**Anushka Hada** – anhada@ucsc.edu
