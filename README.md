@@ -49,5 +49,3 @@ Implements three linear ML algorithms from scratch:
 ## 👤 Author
 
 **Anushka Hada**
-
-Machine learning mini-projects for academic and personal learning.
