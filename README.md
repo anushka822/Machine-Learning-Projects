@@ -44,7 +44,9 @@ Implements three linear ML algorithms from scratch:
 ## 📄 Repository Notes
 
 * Each project folder contains its own **code**, **documentation**, and **report**.
-* All projects were developed and tested using Google Colab, so outputs, visualizations, and intermediate results are already visible in the notebooks.## 👤 Author
+* All projects were developed and tested using Google Colab, so outputs, visualizations, and intermediate results are already visible in the notebooks.
+
+## 👤 Author
 
 **Anushka Hada**
 Machine learning mini-projects for academic and personal learning.
